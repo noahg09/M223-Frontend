@@ -1,0 +1,16 @@
+.folderList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.folderItem {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    background-color: #f9f9f9;
+}
+
+.folderItem:hover {
+    background-color: #ececec;
+}
